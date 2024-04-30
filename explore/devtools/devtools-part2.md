@@ -1,0 +1,2 @@
+1. The bug was that the program takes the inputs as strings, so result is just combining the two strings together.
+2. To fix the bug, we can explicitely convert the two inputs to numbers before adding them together in result.
